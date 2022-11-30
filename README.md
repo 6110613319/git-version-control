@@ -6,4 +6,4 @@
 
 promo code SALE | 50
 
-i want to create PR
+TEST commit hook
